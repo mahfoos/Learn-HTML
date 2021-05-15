@@ -1,8 +1,8 @@
 HTML
 - Used to structures content on a web page (images, text, forms, etc)
 - Web structure content using HTML tags
-- <!DOCTYPE html> only tag start with exculation mark
-- <html> root tag of document
+- DOCTYPE html only tag start with exculation mark
+- html root tag of document
 - 
 
 CSS - Cascading Style Sheet
